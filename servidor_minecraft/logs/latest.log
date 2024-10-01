@@ -210,3 +210,9 @@ java.nio.file.NoSuchFileException: server.properties
 [01Oct2024 21:58:49.681] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 76814 ms
 [01Oct2024 21:58:49.684] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (94.786s)! For help, type "help"
 [01Oct2024 21:58:49.696] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[01Oct2024 22:12:12.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Oct2024 22:12:12.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/mi-selver-1/server.py<--[HERE]
+[01Oct2024 22:12:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Oct2024 22:12:18.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/mi-selver-1/server.py<--[HERE]
+[01Oct2024 22:12:18.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Oct2024 22:12:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/mi-selver-1/server.py<--[HERE]

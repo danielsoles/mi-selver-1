@@ -673,3 +673,13 @@ java.nio.file.NoSuchFileException: server.properties
 [01Oct2024 22:00:49.628] [Netty Epoll Server IO #1/DEBUG] [io.netty.util.Recycler/]: -Dio.netty.recycler.blocking: false
 [01Oct2024 22:03:49.715] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [01Oct2024 22:03:49.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2024 22:08:49.656] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2024 22:08:49.662] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[01Oct2024 22:12:12.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Oct2024 22:12:12.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/mi-selver-1/server.py<--[HERE]
+[01Oct2024 22:12:18.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Oct2024 22:12:18.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/mi-selver-1/server.py<--[HERE]
+[01Oct2024 22:12:18.947] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[01Oct2024 22:12:18.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: home/codespace/.python/current/bin/python3 /workspaces/mi-selver-1/server.py<--[HERE]
+[01Oct2024 22:13:49.658] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[01Oct2024 22:13:49.664] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
